@@ -12,7 +12,7 @@ Your role is *pivotal in ensuring that the Azure environment is stable, efficien
 
 Addressing these challenges will involve a mix of troubleshooting, system optimization, and leveraging your expertise in Azure services, particularly in AI and machine learning.
 
-![CSDOT Azure Architecture](../images/CSDOT_architecture.jpg)
+![CSDOT Azure Architecture](./images/CSDOT_architecture.jpg)
 
 ## Requirements
 
